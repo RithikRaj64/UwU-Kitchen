@@ -105,7 +105,7 @@ function Take() {
                 height: 520,
                 borderRadius: 75
             }}>
-                <h1 className="h1">Howdy {Name}!!</h1>
+                <h1 className="h1">Howdy {Name} 😉</h1>
                 <div className='box-contents'>
                     <br /><br /><br /><br />
                     <form>
